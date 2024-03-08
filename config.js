@@ -7,12 +7,7 @@ const CONFIG = {
     Sang năm nữ cưới trông hay mau chồng`,
     btnIntro: 'UKUK!',
     title: 'Trông mày, dáng mắt chưa tin 😏',
-    desc: 'Hoa nghe tôi nói, tôi bày 
-        Vũ môn thác ngược, cá bay hóa rồng
-    Trăng soi mặt nước trong nghìn
-        Nguyệt di hoa ảnh liễu đào nên tơ
-            Hôm nay tôi chúc nàng thơ
-                Sang năm sung sướng nên duyên mặn nồng',
+    desc: 'Hoa nghe tôi nói, tôi bày/ Vũ môn thác ngược, cá bay hóa rồng/ Trăng soi mặt nước trong nghìn/ Nguyệt di hoa ảnh liễu đào nên tơ/Hôm nay tôi chúc nàng thơ/ Sang năm sung sướng nên duyên mặn nồng',
     btnYes: 'HayHay :3',
     btnNo: 'Tệ mới chọn!',
     question:'Thấy Lý Hải dễ thương hong? <3',
