@@ -1,19 +1,25 @@
 const CONFIG = {
-    introTitle: 'Mấy cô đích thực là Mễ Nhơn!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    introTitle: 'Cô đích thực là Mễ Nhơn!',
+    introDesc: `Ây dô chào Nữ,
+    Trông người, trông dáng, ngóng mài.
+    Ta đây thấy nữ trong ngoài được vinh.
+    Nhìn trời, nhìn đất, ngóng mây.
+    Sang năm nữ cưới trông hay mau chồng`,
+    btnIntro: 'UKUK!',
+    title: 'Trông mày, dáng mắt chưa tin 😏',
+    desc: 'Hoa nghe tôi nói, tôi bày 
+        Vũ môn thác ngược, cá bay hóa rồng
+    Trăng soi mặt nước trong nghìn
+        Nguyệt di hoa ảnh liễu đào nên tơ
+            Hôm nay tôi chúc nàng thơ
+                Sang năm sung sướng nên duyên mặn nồng',
+    btnYes: 'HayHay :3',
+    btnNo: 'Tệ mới chọn!',
+    question:'Thấy Lý Hải dễ thương hong? <3',
+    btnReply: 'Nhập đi rồi next nha <3',
+    reply: 'Thấy Lý Hải cũm cũm <33333333',
+    mess: 'Tui biết mà 🥰. #Lyhaiwithluv 😘😘',
+    messDesc: 'Điều đặc biệt hơn còn phía sau nè!',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
