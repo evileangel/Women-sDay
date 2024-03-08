@@ -21,5 +21,5 @@ const CONFIG = {
     mess: 'Tui biết mà 🥰. #Lyhaiwithluv 😘😘',
     messDesc: 'Điều đặc biệt hơn còn phía sau nè!',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://evileangel.github.io/8-3muon/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
